@@ -54,7 +54,7 @@ git branch <name_branch> //Tạo 1 nhánh mới
 ```
 
 ```
-git branch //liệt kê các nhánh, nhánh có prefix * là nhánh chính
+git branch //liệt kê các nhánh, nhánh có prefix * là đang xét
 ```
 
 ```
