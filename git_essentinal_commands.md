@@ -114,6 +114,6 @@ git pull origin
 ### Git push
 ```
 git remote add origin <link_repo>
-git push --set-upstream origin master
+git push origin
 
 ```
