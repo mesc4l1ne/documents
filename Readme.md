@@ -4,4 +4,4 @@ Hello everyone, my name is Hoang, and I am currently a 3rd-year student pursuing
 
 I'm interested in IoT system and I would like to use my Github to store and share my knowledge.<br>
 
-Bla bla, so let get started.
+Bla bla, so let's get started.
