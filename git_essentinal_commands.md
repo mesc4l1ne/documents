@@ -93,12 +93,9 @@ git branch -d emergency-fix
 
 
 Việc làm cũng tương tự nếu nhánh không từ main mà ra, nhưng khi merge sẽ phải check sự thay đổi, maybe sinh ra lỗi nếu 2 file có sự khác nhau
-## Push Repo
-```
-git remote add origin <link git repo>
-```
 
 ## Work with Github
+
 ### Git fetch
 fetch gets all the change history of a tracked branch/repo.
 
@@ -109,8 +106,14 @@ git fetch origin  //after that, use git status to see the changes
 
 ### Git pull
 pull is a combination of fetch and merge. It is used to pull all changes from a remote repository into the branch you are working on.
+```
+git pull origin
+```
+
 
 ### Git push
 ```
-git push origin
+git remote add origin <link_repo>
+git push --set-upstream origin master
+
 ```
