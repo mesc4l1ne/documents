@@ -2,4 +2,6 @@
 #Test tao 1 nhanh branch khac xong merge toi main
 
 print('Hello World')
-print('My name is Hoang bla bla')
+a = 'My name is Hoang bla bla'
+b = a.split()
+print(b)
